@@ -1,0 +1,26 @@
+.Footer {
+    height: 56px;
+    background: #FFFFFF;
+    color: #1E2834;
+    text-align: center;
+}
+
+.Footer_content {
+    font-family: Roboto;
+    font-style: normal;
+}
+
+.Footer_text {
+    font-size: 16px;
+    vertical-align: middle;
+    margin: 0px;
+    line-height: 24px;
+}
+
+.Footer_text a{
+    font-weight: bold;
+}
+
+.Footer_text p {
+    font-weight: normal;
+}
