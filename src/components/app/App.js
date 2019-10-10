@@ -1,5 +1,6 @@
 import React from '../../../node_modules/react';
 import Header from '../Header';
+import Footer from '../Footer';
 import logo from '../../assets/images/logo.svg'
 import './App.css';
 
@@ -11,6 +12,8 @@ const App = props => (
     </div>
     
     <Header />
+
+    <Footer />
 
   </div>
 );
