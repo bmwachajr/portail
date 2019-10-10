@@ -1,6 +1,7 @@
 import React from '../../../node_modules/react';
 import Header from '../Header';
 import Footer from '../Footer';
+import Subscribe from '../Subscribe';
 import logo from '../../assets/images/logo.svg'
 import './App.css';
 
@@ -12,6 +13,8 @@ const App = props => (
     </div>
     
     <Header />
+
+    <Subscribe />
 
     <Footer />
 
