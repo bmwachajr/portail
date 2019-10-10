@@ -6,6 +6,7 @@ import './Header.css';
 function Header() {
   return (
     <div className="Header">
+      <div className="container">
       <header className="Header_content">
         <div className="Header_text">
           <h1>Screen recording should be easy</h1>
@@ -24,6 +25,7 @@ function Header() {
         </div>
 
       </header>
+      </div>
     </div>
   );
 }
