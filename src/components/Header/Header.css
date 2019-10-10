@@ -1,0 +1,63 @@
+.Header {
+  color: #1E2834;
+}
+
+.Header_content {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.Header_text {
+  width: 60%;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0px;
+}
+
+.Header_text h1 {
+  width: 346px;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.Header_text p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.Header_form input {
+  display: inline-block;
+  vertical-align: middle;
+  width: 300px;
+  height: 48px;
+  background: #FFFFFF;
+  border: 1px solid #CDD6DF;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 24px;
+  padding-left: 10px; 
+}
+
+.Header_form .button {
+  display: inline-block;
+  vertical-align: middle;
+  width: 170px;
+  height: 48px;
+  background: #153C55;
+  border: 1px solid #153C55;
+  box-sizing: border-box;
+  border-radius: 0px 4px 4px 0px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+
+.Header_hero_image {
+  width: 40%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
