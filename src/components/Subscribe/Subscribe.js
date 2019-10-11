@@ -1,5 +1,5 @@
 import React from 'react';
-import subscribeDash from '../../assets/images/subscribe-dash.svg';
+import dash from '../../assets/images/dash.svg';
 import './Subscribe.css';
 
 function Subscribe() {
@@ -8,7 +8,7 @@ function Subscribe() {
       <div className="container">
         <div className="Subscribe_content">
           <div className="Subscribe-content-dash">
-            <img src={subscribeDash} className="subscribe_dash" alt="dash" />
+            <img src={dash} className="subscribe_dash" alt="dash" />
           </div>
 
           <div className="Subscribe_text">
