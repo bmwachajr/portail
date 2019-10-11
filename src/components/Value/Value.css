@@ -1,0 +1,58 @@
+.Value {
+  padding: 0 0 100px 0;
+  background: #EDF8FF;
+  text-align: center;
+}
+
+.Value_content {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.Value-content-dash {
+  /* text-align: center; */
+}
+
+.Value-content-dash img {
+  margin-top: 40px;
+}
+
+.Value_text {
+  width: 500px;
+  vertical-align: middle;
+  margin-top: 0px;
+  margin: auto;
+  margin-bottom: 0px;
+}
+
+.Value_text h1 {
+  font-size: 32px;
+  font-weight: normal;
+}
+
+.Value_text p {
+  font-size: 16px;
+}
+
+.Value_form {
+  margin: 40px;
+}
+
+.Value_list {
+  vertical-align: middle;
+}
+
+.value_list_item {
+  display: inline-block;
+  vertical-align: middle;
+  width: 25%;
+}
+
+.item_up {
+  padding-bottom: 60px;
+}
+
+.item_down {
+  padding-top: 60px;
+}

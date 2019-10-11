@@ -1,0 +1,37 @@
+.Value_item {
+  display: inline-block;
+  width: 200px;
+  height: 160px;
+}
+
+.Value_item h1 {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;  
+}
+
+.Value_item p {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.Value_item-img {  
+  display: flex;
+  align-items: center;
+  width: 64px;
+  height: 64px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 16px rgba(30, 40, 52, 0.25);
+  border-radius: 50px;
+  margin: auto;
+  margin-bottom: 15px;
+  border: none;
+}
+
+.Value_item-img img {
+  border-radius: unset;
+
+  width: 32px;
+  height: 32px;
+}
