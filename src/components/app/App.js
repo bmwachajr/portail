@@ -5,6 +5,8 @@ import Subscribe from '../Subscribe';
 import WalkThrough from '../WalkThrough';
 import logo from '../../assets/images/logo.svg'
 import './App.css';
+import Value from '../Value';
+import ValueItem from '../Value/Value_item';
 
 const App = props => (
   <div className="App">
@@ -16,6 +18,8 @@ const App = props => (
     </div>
 
     <Header />
+
+    <Value />
 
     <WalkThrough />
 
